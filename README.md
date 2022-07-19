@@ -1,2 +1,2 @@
 # intro_to_ruby
-# ruby exercises in the 
+# ruby exercises in Introduction to Programming with Ruby
